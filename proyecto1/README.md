@@ -14,7 +14,8 @@ Cada vez que se actualiza el mensaje, se emite un evento que puede ser visto en 
 🔗 Contrato en Block Explorer
 
 El contrato está desplegado en la red Sepolia Testnet y puede consultarse en el siguiente enlace:
-👉 Ver contrato en Sepolia Etherscan
+
+https://sepolia.etherscan.io/address/0x1c43501190043f51f12eac4623aa953d5e7b6b0b
 
 📚 Descripción técnica
 
