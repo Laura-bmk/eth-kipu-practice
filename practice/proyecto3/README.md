@@ -18,7 +18,11 @@ Incluye:
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone 
+git clone https://github.com/Laura-bmk/eth-kipu-practice.git
+
+    Luego ingresar al proyecto 3
+
+cd eth-kipu-practice/practice/proyecto3
 
 2️⃣ Compilar y desplegar en Remix IDE
 
