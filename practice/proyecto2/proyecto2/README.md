@@ -10,9 +10,13 @@ El objetivo es practicar el manejo de estructuras, arrays y funciones básicas e
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/Laura-bmk/ToDoList-Solidity.git
+   git clone https://github.com/Laura-bmk/eth-kipu-practice.git
 
    ```
+
+   # Luego ingresar al proyecto 2
+
+   cd eth-kipu-practice/proyecto2/proyecto2
 
 2. Abre la carpeta en tu IDE (por ejemplo, Remix).
 
