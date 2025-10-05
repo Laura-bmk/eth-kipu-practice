@@ -60,3 +60,5 @@ Contrato desplegado en: 0x07d481291D94b5c3A86451D239752694fC7c5327
 Compilador: Solidity 0.8.x
 
 IDE utilizado: Remix IDE
+
+![“Todo bajo control”]( https://ibb.co/C5TBwCVj) 
