@@ -61,4 +61,3 @@ Compilador: Solidity 0.8.x
 
 IDE utilizado: Remix IDE
 
-![“Todo bajo control”]( https://ibb.co/C5TBwCVj) 
