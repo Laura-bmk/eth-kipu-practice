@@ -14,7 +14,7 @@ El objetivo es practicar el manejo de estructuras, arrays y funciones básicas e
 
    ```
 
-   # Luego ingresar al proyecto 2
+   ### Luego ingresar al proyecto 2
 
    cd eth-kipu-practice/proyecto2/proyecto2
 
